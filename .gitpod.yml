@@ -1,0 +1,12 @@
+image: eiswind/workspace-java-17
+
+tasks:
+  - init: ./mvnw dependency:go-offline
+  
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
+    - redhat.vscode-xml
+    - pivotal.vscode-boot-dev-pack
+
+
