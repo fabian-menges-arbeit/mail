@@ -8,5 +8,6 @@ vscode:
     - vscjava.vscode-java-pack
     - redhat.vscode-xml
     - pivotal.vscode-boot-dev-pack
+    - humao.rest-client	
 
 
